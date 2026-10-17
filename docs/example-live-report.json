@@ -1,0 +1,439 @@
+{
+  "id": "0b96b946-620b-4baa-9d9e-408de2801edb",
+  "createdAt": "2026-10-17T13:01:07.806Z",
+  "idea": {
+    "title": "Sunday, a calmer way to meal plan",
+    "description": "A meal-planning app that suggests a weekly menu from your preferences, builds a grocery list, and reminds you to cook. Users create an account, enter dietary preferences and follow a visual weekly calendar.",
+    "audience": "Busy individuals and households who want to spend less time planning meals.",
+    "pricing": "₹299 per month after a seven-day trial."
+  },
+  "evaluations": [
+    {
+      "personaId": "maya",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I manage meals for my family, but I already use WhatsApp for sharing recipes and lists. I’m not sure if this app adds value beyond what I already do.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for one week to see if it streamlines meal planning for my family."
+        },
+        {
+          "dimension": "price",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "₹299 per month is more than I spend on household tools. I’m not sure if the benefits justify this cost.",
+          "assumption": "Based on stated details",
+          "experiment": "Compare the cost with other meal-planning tools I know about."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I can create an account and enter dietary preferences, but I’m not sure how easy it is to set up for multiple people in my household.",
+          "assumption": "Based on stated details",
+          "experiment": "Try setting up the app for my daughter and granddaughter to see how it works."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I’m not sure if the app fits into our routine, especially since we share decisions and have interrupted attention.",
+          "assumption": "Based on stated details",
+          "experiment": "Use the app for one meal plan and see if it works with our shared schedule."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I’m not sure what I need to give up or believe in terms of privacy or data usage, but I trust WhatsApp for sharing information.",
+          "assumption": "Based on stated details",
+          "experiment": "Check the app’s privacy policy and data usage terms."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I use WhatsApp and digital payments confidently, so I’m not sure if the app is inaccessible for me or my family.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app with my granddaughter to see if it’s accessible for her."
+        }
+      ]
+    },
+    {
+      "personaId": "arjun",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a way to plan meals quickly without extra costs, but I'm unsure if this app fits my unpredictable schedule.",
+          "assumption": "Based on stated details",
+          "experiment": "Try the free tier for a week to see if it helps with meal planning."
+        },
+        {
+          "dimension": "price",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I only have ₹600 per month for optional apps, and this app costs ₹299 after a trial.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if there's a one-time purchase option or free tier with enough features."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to create an account and enter dietary preferences, but I'm unsure if it's quick enough for my schedule.",
+          "assumption": "Based on stated details",
+          "experiment": "Try creating an account and entering preferences during a short break."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I have an unpredictable schedule, and I'm unsure if the app fits my routine.",
+          "assumption": "Based on stated details",
+          "experiment": "Use the app for a week during a regular schedule to see if it fits."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to trust the app to help me plan meals, but I'm unsure about its reliability.",
+          "assumption": "Based on stated details",
+          "experiment": "Check reviews or ask friends for their experience with the app."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I have an Android phone, but I'm unsure if the app is accessible for my needs.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app on my Android phone to see if it works well."
+        }
+      ]
+    },
+    {
+      "personaId": "leah",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a tool that saves time and adapts to my creative workflow, but meal planning isn't a priority for me.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for one week to see if it integrates with my current schedule."
+        },
+        {
+          "dimension": "price",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "The price is within my stated budget, but I'm cautious about adding another subscription.",
+          "assumption": "Based on stated details",
+          "experiment": "Compare the app's features with free meal-planning tools to assess value."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a simple onboarding process that doesn't require extra steps or learning curves.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the onboarding process by creating an account and entering dietary preferences."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a tool that fits into my creative workflow, but meal planning isn't a daily routine for me.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if the app can be used during my downtime without disrupting my creative process."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to trust the app's data privacy and control over my information.",
+          "assumption": "Missing detail: Data privacy and security measures",
+          "experiment": "Review the app's privacy policy and data usage terms."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need an app that is accessible and compatible with my devices and screen readers.",
+          "assumption": "Missing detail: Screen-reader support and accessibility features",
+          "experiment": "Test the app's accessibility features with my screen reader."
+        }
+      ]
+    },
+    {
+      "personaId": "dev",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "Meal planning could save time, but I already use a spreadsheet for this. I’m not sure if the app adds meaningful value.",
+          "assumption": "Based on stated details",
+          "experiment": "Try the trial to see if the app’s automation feels more efficient than my current method."
+        },
+        {
+          "dimension": "price",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "The monthly cost is within my stated budget, but I’m cautious about paying for a tool I’m not certain will improve my workflow.",
+          "assumption": "Based on stated details",
+          "experiment": "Compare the trial experience with my current spreadsheet method to evaluate cost-effectiveness."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "Creating an account and entering dietary preferences seems straightforward, but I’m unsure if the app requires unnecessary account access.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if the app requires account access for core meal planning features."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "A visual calendar might help, but I’m not sure if the app fits my current meal planning habits or if it will disrupt my routine.",
+          "assumption": "Based on stated details",
+          "experiment": "Use the app for one week to see if it integrates smoothly with my existing meal planning habits."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I’m concerned about data minimisation and the app’s handling of personal dietary information. I need to know what data is stored and how it’s used.",
+          "assumption": "Based on stated details",
+          "experiment": "Review the app’s privacy policy and data handling practices to assess trustworthiness."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "A visual calendar might be inaccessible for users with visual impairments. I need to know if the app supports screen readers or other accessibility features.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if the app supports screen reader compatibility or other accessibility features."
+        }
+      ]
+    },
+    {
+      "personaId": "rosa",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I manage a small restaurant and meal planning could help reduce waste, but I'm not sure if it fits my team's workflow.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for one week with my team to see if it reduces grocery waste."
+        },
+        {
+          "dimension": "price",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I have a ₹3000 monthly budget for business software, but I'm not sure if ₹299 is worth the time and effort.",
+          "assumption": "Based on stated details",
+          "experiment": "Compare the app's features with free meal-planning tools to see if the cost is justified."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I'm not sure if the onboarding process is quick enough for my team to adopt it during a busy service.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the onboarding process with one of my staff members during a slow shift."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I'm not sure if the app fits into our daily routine, especially with the busy service schedule.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for one week to see if it fits into our daily routine."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I'm not sure if I can trust the app to handle our meal planning without causing duplicate entry or downtime.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app's reliability by using it for one week and checking for duplicate entry."
+        },
+        {
+          "dimension": "access",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I'm not sure if the app is accessible for all my staff, especially those with visual impairments.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app's accessibility with one of my staff members who has visual impairments."
+        }
+      ]
+    },
+    {
+      "personaId": "eli",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a meal-planning tool that works with my screen reader and keyboard navigation, but the pitch doesn't mention accessibility features.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app with screen reader and keyboard navigation to see if it works."
+        },
+        {
+          "dimension": "price",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I can afford ₹800 per month, but I need to know if the app is worth the cost for my needs.",
+          "assumption": "Based on stated details",
+          "experiment": "Try the free trial to see if the app meets my needs."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to know if the app is accessible and if the onboarding process is compatible with my screen reader.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the onboarding process with screen reader and keyboard navigation."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to know if the app fits into my routine and if it can help me plan meals efficiently.",
+          "assumption": "Based on stated details",
+          "experiment": "Use the app for a week to see if it fits into my routine."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to know if the app is trustworthy and if my data is secure.",
+          "assumption": "Based on stated details",
+          "experiment": "Check the app's privacy policy and security measures."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to know if the app is accessible and if it works with my screen reader and keyboard navigation.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app with screen reader and keyboard navigation to see if it works."
+        }
+      ]
+    },
+    {
+      "personaId": "noor",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a tool that fits my rotating shifts and helps me plan meals without extra effort.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for one week during a shift cycle."
+        },
+        {
+          "dimension": "price",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I can afford ₹1000 per month, but ₹299 feels high for a convenience tool.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if there are any discounts or bundles available."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to enter dietary preferences, but I'm unsure how detailed it needs to be.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the onboarding process with basic preferences."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I need a tool that adapts to my changing routine, but I'm unsure if the app can handle that.",
+          "assumption": "Based on stated details",
+          "experiment": "Use the app for a week during a shift cycle and see how it adapts."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need to trust the app to handle my meal planning without extra effort.",
+          "assumption": "Based on stated details",
+          "experiment": "Check the app's privacy policy and user reviews."
+        },
+        {
+          "dimension": "access",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I need a tool that is accessible for someone with changing schedules.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app's accessibility features during a shift cycle."
+        }
+      ]
+    },
+    {
+      "personaId": "sam",
+      "assessments": [
+        {
+          "dimension": "value",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I can see how meal planning could help others in my group, but I’m not sure if it’s better than simple spreadsheets.",
+          "assumption": "Based on stated details",
+          "experiment": "Try creating a sample menu and grocery list with the app."
+        },
+        {
+          "dimension": "price",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I can afford the monthly fee, but I’m not sure if the app is worth the cost for my group.",
+          "assumption": "Based on stated details",
+          "experiment": "Check if the app offers a free version for small groups."
+        },
+        {
+          "dimension": "onboarding",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I can create an account and enter preferences, but I’m not sure how easy it is for others.",
+          "assumption": "Based on stated details",
+          "experiment": "Ask a friend to try the onboarding process."
+        },
+        {
+          "dimension": "routine",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I’m not sure if the app fits into our group’s routine, especially with mixed devices and skill levels.",
+          "assumption": "Based on stated details",
+          "experiment": "Try using the app for a week and see how it fits into our schedule."
+        },
+        {
+          "dimension": "trust",
+          "reaction": "neutral",
+          "severity": 0,
+          "reason": "I’m not sure about the app’s data privacy or how much control I have over my information.",
+          "assumption": "Based on stated details",
+          "experiment": "Check the app’s privacy policy and data usage terms."
+        },
+        {
+          "dimension": "access",
+          "reaction": "uncertain",
+          "severity": 1,
+          "reason": "I’m not sure if the app is accessible for people with different devices or skill levels.",
+          "assumption": "Based on stated details",
+          "experiment": "Test the app on different devices and with people of varying skill levels."
+        }
+      ]
+    }
+  ],
+  "mode": "live",
+  "model": "qwen3:8b",
+  "failures": []
+}
